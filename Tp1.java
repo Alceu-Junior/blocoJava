@@ -10,7 +10,7 @@ public class Tp1{
     
     private static int index;
     
-    private static final int QTDE = 2;
+    private static final int QTDE = 100;
     
     public static void main(String[] args){
         Scanner in = new Scanner(System.in);
